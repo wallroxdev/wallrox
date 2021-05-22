@@ -1,5 +1,40 @@
 [{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr107.jpg",
+		"downloadable": false,
+		"name": "Color Mesh",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/liquify/papr21.jpg",
+		"downloadable": false,
+		"name": "Gallium",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr105.jpg",
+		"downloadable": false,
+		"name": "Rus",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr104.jpg",
+		"downloadable": false,
+		"name": "Plango",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/liquify/papr20.jpg",
+		"downloadable": false,
+		"name": "Liquik",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr103.jpg",
 		"downloadable": false,
 		"name": "Sunspot",
