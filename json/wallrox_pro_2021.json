@@ -1,5 +1,11 @@
 [{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr118.jpg",
+		"name": "Atoms",
+		"category": "new,Premium"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/amoled/papr31.jpg",
 		"name": "Busted",
 		"category": "new"
