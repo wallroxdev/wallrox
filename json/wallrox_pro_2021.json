@@ -1,5 +1,11 @@
 [{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/mosaic/papr185.jpg",
+		"name": "Orbit",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lowpoly/papr66.jpg",
 		"name": "Emerald",
 		"category": "new"
