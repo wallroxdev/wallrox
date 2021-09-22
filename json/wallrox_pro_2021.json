@@ -1,5 +1,11 @@
 [{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/mosaic/papr186.jpg",
+		"name": "Camp",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr125.jpg",
 		"name": "Mutation",
 		"category": "new,Premium"
