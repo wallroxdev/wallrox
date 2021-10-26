@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr115.jpg",
+		"name": "Eclair",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr132.jpg",
 		"name": "Glide",
 		"category": "new"
