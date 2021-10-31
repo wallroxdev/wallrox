@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr135.jpg",
+		"name": "Eden",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr134.jpg",
 		"name": "Raft",
 		"category": "new"
