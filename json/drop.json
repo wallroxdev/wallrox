@@ -1,33 +1,236 @@
 [
    {
-		"author": "Ankit Anand",
-		"url": "https://i.ibb.co/CsKcGgy/papr138.jpg",
-        "downloadable":false,
-		"name": "Coloroke",
-		"category": "new"
-	},
-	{
-		"author": "Ankit Anand",
-		"url": "https://i.ibb.co/j42rSzL/papr60.jpg",
-        "downloadable":false,
-		"name": "Node",
-		"category": "new"
-	},
-	{
-		"author": "Ankit Anand",
-		"url": "https://i.ibb.co/VxYGrTy/papr128.jpg",
-        "downloadable":false,
-		"name": "Taco",
-		"category": "new"
-	},
-	{
-		"author": "Ankit Anand",
-		"url": "https://i.ibb.co/tLMJwSy/papr12.jpg",
-        "downloadable":false,
-		"name": "Shein",
-		"category": "new"
-	},
-	{
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/dpfFFLG/papr57.jpg",
+      "downloadable":false,
+      "name":"Loop",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/NCVbPvs/papr32.jpg",
+      "downloadable":false,
+      "name":"Fog",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/41HmPXK/papr139.jpg",
+      "downloadable":false,
+      "name":"Candy",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/CsKcGgy/papr138.jpg",
+      "downloadable":false,
+      "name":"Coloroke",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/rHP36Zz/papr137.jpg",
+      "downloadable":false,
+      "name":"Blitz",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/kgzz820/papr135.jpg",
+      "downloadable":false,
+      "name":"Eden",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/X4rxzS4/papr134.jpg",
+      "downloadable":false,
+      "name":"Raft",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/xjK6cC4/papr133.jpg",
+      "downloadable":false,
+      "name":"Gale",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/mvXVDtr/papr115.jpg",
+      "downloadable":false,
+      "name":"Eclair",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/LZ77w94/papr132.jpg",
+      "downloadable":false,
+      "name":"Glide",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/fqcydL6/papr16.jpg",
+      "downloadable":false,
+      "name":"Trine",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/X2yTwpR/papr15.jpg",
+      "downloadable":false,
+      "name":"Realm",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/sKRFWFM/papr131.jpg",
+      "downloadable":false,
+      "name":"Blaze",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/sWQvpgg/papr130.jpg",
+      "downloadable":false,
+      "name":"U-turn",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/0KYVzV1/papr129.jpg",
+      "downloadable":false,
+      "name":"Nebula",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/j42rSzL/papr60.jpg",
+      "downloadable":false,
+      "name":"Node",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/VxYGrTy/papr128.jpg",
+      "downloadable":false,
+      "name":"Taco",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/tLMJwSy/papr12.jpg",
+      "downloadable":false,
+      "name":"Shein",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/XV0rhQ0/papr87.jpg",
+      "downloadable":false,
+      "name":"Blur 87",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/rMqBjgH/papr86.jpg",
+      "downloadable":false,
+      "name":"Blur 86",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/XxGWYcY/papr127.jpg",
+      "downloadable":false,
+      "name":"Neutralize",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/1skJddT/papr126.jpg",
+      "downloadable":false,
+      "name":"Jade",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/19hQKYt/papr186.jpg",
+      "downloadable":false,
+      "name":"Camp",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/x1CW1gD/papr124.jpg",
+      "downloadable":false,
+      "name":"Evolution",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/jG00Z7D/papr14.jpg",
+      "downloadable":false,
+      "name":"Trilogy",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/BK9hBtj/papr13.jpg",
+      "downloadable":false,
+      "name":"Miracle",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/ZJvqkYx/papr12.jpg",
+      "downloadable":false,
+      "name":"Grace",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/p1S2V2f/papr11.jpg",
+      "downloadable":false,
+      "name":"Faction",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/VjjHvCd/papr123.jpg",
+      "downloadable":false,
+      "name":"Hypno",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/bLxv9P4/papr185.jpg",
+      "downloadable":false,
+      "name":"Orbit",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/p1WGBrS/papr66.jpg",
+      "downloadable":false,
+      "name":"Emerald",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/M94rnx9/papr56.jpg",
+      "downloadable":false,
+      "name":"Bug",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/3ymWQPB/papr112.jpg",
+      "downloadable":false,
+      "name":"Remnant",
+      "category":"new"
+   },
+   {
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/QQsvssR/papr122.jpg",
       "downloadable":false,
@@ -95,14 +298,14 @@
       "url":"https://i.ibb.co/YdbSWmQ/papr54.jpg",
       "downloadable":false,
       "name":"Glem",
-      "category":"new"
+      "category":"Patterns"
    },
    {
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/G2kmKwJ/papr14.jpg",
       "downloadable":false,
       "name":"Vector 14",
-      "category":"new"
+      "category":"Vector"
    },
    {
       "author":"Ankit Anand",
@@ -137,7 +340,7 @@
       "url":"https://i.ibb.co/Fs54wMh/papr97.jpg",
       "downloadable":false,
       "name":"Homecoming",
-      "category":"new"
+      "category":"Lines"
    },
    {
       "author":"Ankit Anand",
@@ -172,21 +375,21 @@
       "url":"https://i.ibb.co/kXSc3XX/papr105.jpg",
       "downloadable":false,
       "name":"Rus",
-      "category":"new"
+      "category":"Abstract"
    },
    {
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/GVJVhT0/papr104.jpg",
       "downloadable":false,
       "name":"Plango",
-      "category":"new"
+      "category":"Abstract"
    },
    {
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/1MJF1YJ/papr20.jpg",
       "downloadable":false,
       "name":"Liquik",
-      "category":"new"
+      "category":"Liquify"
    },
    {
       "author":"Ankit Anand",

@@ -1,6 +1,18 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/amoled/papr34.jpg",
+		"name": "Cyano",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/amoled/papr33.jpg",
+		"name": "Blueberries",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/pattern/papr57.jpg",
 		"name": "Loop",
 		"category": "new"
