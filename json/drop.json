@@ -1,6 +1,13 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/C9MyCgk/papr140.jpg",
+      "downloadable":false,
+      "name":"Remix",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/dpfFFLG/papr57.jpg",
       "downloadable":false,
       "name":"Loop",
@@ -347,28 +354,28 @@
       "url":"https://i.ibb.co/zbGTLtV/papr109.jpg",
       "downloadable":false,
       "name":"Groovy",
-      "category":"new"
+      "category":"Abstract"
    },
    {
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/KDrytm1/papr108.jpg",
       "downloadable":false,
       "name":"Dashing",
-      "category":"new"
+      "category":"Abstract"
    },
    {
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/rp7D0B4/papr107.jpg",
       "downloadable":false,
       "name":"Color Mesh",
-      "category":"new"
+      "category":"Abstract"
    },
    {
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/7gfYQH8/papr21.jpg",
       "downloadable":false,
       "name":"Gallium",
-      "category":"new"
+      "category":"Liquify"
    },
    {
       "author":"Ankit Anand",
