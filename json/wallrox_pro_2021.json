@@ -296,7 +296,7 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr115.jpg",
 		"name": "Eclair",
-		"category": "new"
+		"category": "Lines"
 	},
 	{
 		"author": "Ankit Anand",
@@ -308,13 +308,13 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr16.jpg",
 		"name": "Trine",
-		"category": "new"
+		"category": "Geometric"
 	},
 	{
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr15.jpg",
 		"name": "Realm",
-		"category": "new"
+		"category": "Geometric"
 	},
 	{
 		"author": "Ankit Anand",
@@ -350,7 +350,7 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/crystal/papr60.jpg",
 		"name": "Node",
-		"category": "new"
+		"category": "Crystal"
 	},
 	{
 		"author": "Ankit Anand",
@@ -374,7 +374,7 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/blur/papr86.jpg",
 		"name": "Blur 86",
-		"category": "new"
+		"category": "Blur"
 	},
 	{
 		"author": "Ankit Anand",
@@ -410,19 +410,19 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr14.jpg",
 		"name": "Trilogy",
-		"category": "new"
+		"category": "Geometric"
 	},
 	{
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr13.jpg",
 		"name": "Miracle",
-		"category": "new"
+		"category": "Geometric"
 	},
 	{
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr12.jpg",
 		"name": "Grace",
-		"category": "new"
+		"category": "Geometric"
 	},
 	{
 		"author": "Ankit Anand",
@@ -452,13 +452,13 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/pattern/papr56.jpg",
 		"name": "Bug",
-		"category": "new"
+		"category": "Patterns"
 	},
 	{
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr112.jpg",
 		"name": "Remnant",
-		"category": "new"
+		"category": "Lines"
 	},
 	{
 		"author": "Ankit Anand",
@@ -476,19 +476,19 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/se/papr168.jpg",
 		"name": "Shale",
-		"category": "new"
+		"category": "Special Edition"
 	},
 	{
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/liquify/papr22.jpg",
 		"name": "Flux",
-		"category": "new"
+		"category": "Liquify"
 	},
 	{
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr111.jpg",
 		"name": "Inclined",
-		"category": "new"
+		"category": "Lines"
 	},
 	{
 		"author": "Ankit Anand",
@@ -500,7 +500,7 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/pattern/papr55.jpg",
 		"name": "Revolt",
-		"category": "new"
+		"category": "Patterns"
 	},
 	{
 		"author": "Ankit Anand",
@@ -530,7 +530,7 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/amoled/papr31.jpg",
 		"name": "Busted",
-		"category": "new"
+		"category": "Amoled"
 	},
 	{
 		"author": "Ankit Anand",
@@ -560,7 +560,7 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/pattern/papr54.jpg",
 		"name": "Glem",
-		"category": "new"
+		"category": "Patterns"
 	},
 	{
 		"author": "Ankit Anand",
@@ -596,7 +596,7 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr97.jpg",
 		"name": "Homecoming",
-		"category": "new"
+		"category": "Lines"
 	},
 	{
 		"author": "Ankit Anand",
@@ -632,7 +632,7 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/liquify/papr21.jpg",
 		"name": "Gallium",
-		"category": "new"
+		"category": "Liquify"
 	},
 	{
 		"author": "Ankit Anand",
@@ -650,7 +650,7 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/liquify/papr20.jpg",
 		"name": "Liquik",
-		"category": "new"
+		"category": "Liquify"
 	},
 	{
 		"author": "Ankit Anand",
