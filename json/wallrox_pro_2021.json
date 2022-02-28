@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/pattern/papr58.jpg",
+		"name": "Advent",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/blur/papr88.jpg",
 		"name": "Blur 88",
 		"category": "new"
