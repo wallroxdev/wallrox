@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/pattern/papr62.jpg",
+		"name": "Tropical",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/pattern/papr61.jpg",
 		"name": "Emoji Flood",
 		"category": "new"
@@ -542,7 +548,7 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr11.jpg",
 		"name": "Faction",
-		"category": "new"
+		"category": "Geometric"
 	},
 	{
 		"author": "Ankit Anand",
