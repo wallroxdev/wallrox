@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/pattern/papr63.jpg",
+		"name": "Pizza",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/pattern/papr62.jpg",
 		"name": "Tropical",
 		"category": "new"
