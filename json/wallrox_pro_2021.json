@@ -1,6 +1,18 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lowpoly/papr68.jpg",
+		"name": "Polyplus",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lowpoly/papr67.jpg",
+		"name": "Polyx",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/material/papr480.jpg",
 		"name": "Sheets",
 		"category": "new"
