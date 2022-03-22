@@ -1,6 +1,18 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lowpoly/papr70.jpg",
+		"name": "Polylight",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lowpoly/papr69.jpg",
+		"name": "Polysea",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/amoled/papr40.jpg",
 		"name": "Leap",
 		"category": "new"
