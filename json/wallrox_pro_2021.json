@@ -1,9 +1,27 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/material/papr483.jpg",
+		"name": "Rex Dark",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/material/papr484.jpg",
+		"name": "Rex Light",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/material/papr482.jpg",
+		"name": "Rexient",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lowpoly/papr70.jpg",
 		"name": "Polylight",
-		"category": "new"
+		"category": "new,Premium"
 	},
 	{
 		"author": "Ankit Anand",
