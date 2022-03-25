@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/material/papr485.jpg",
+		"name": "Shutter",
+		"category": "new,Premium"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/vector/papr15.jpg",
 		"name": "Colourmemo",
 		"category": "new"
