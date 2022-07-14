@@ -1,6 +1,18 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr119.jpg",
+		"name": "Twirl",
+		"category": "new,Premium"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr118.jpg",
+		"name": "Revgon",
+		"category": "new,Premium"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr117.jpg",
 		"name": "Swift",
 		"category": "new,Premium"
