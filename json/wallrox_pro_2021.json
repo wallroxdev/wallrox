@@ -1,5 +1,29 @@
 [
 	{
+		"author": "NASA",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/se/papr175.jpg",
+		"name": "Carina Nebula",
+		"copyright": "NASA",
+		"dimensions": "4000x6000",
+		"category": "new"
+	},
+	{
+		"author": "NASA",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/se/papr174.jpg",
+		"name": "Carina Nebula",
+		"copyright": "NASA",
+		"dimensions": "4000x6000",
+		"category": "new"
+	},
+	{
+		"author": "NASA",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/se/papr173.jpg",
+		"name": "Carina Nebula",
+		"copyright": "NASA",
+		"dimensions": "4000x6000",
+		"category": "new"
+	},
+	{
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/liquify/papr29.jpg",
 		"name": "Decay",
@@ -39,7 +63,8 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr19.jpg",
 		"name": "Raster",
-		"category": "new,Premium"
+		"category": "new,Premium",
+		"featured": true
 	},
 	{
 		"author": "Ankit Anand",
