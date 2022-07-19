@@ -69,7 +69,8 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr19.jpg",
 		"name": "Raster",
-		"category": "new,Premium"
+		"category": "featured,new,Premium"
+		"featured": true
 	},
 	{
 		"author": "Ankit Anand",
