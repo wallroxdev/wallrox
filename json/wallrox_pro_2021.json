@@ -1,5 +1,11 @@
 [
 	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/amoled/papr41.jpg",
+		"name": "Flare",
+		"category": "new"
+	},
+	{
 		"author": "NASA",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/se/papr175.jpg",
 		"name": "Carina Nebula",
@@ -63,8 +69,7 @@
 		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr19.jpg",
 		"name": "Raster",
-		"category": "new,Premium",
-		"featured": true
+		"category": "new,Premium"
 	},
 	{
 		"author": "Ankit Anand",
