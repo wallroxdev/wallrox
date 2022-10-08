@@ -1,9 +1,15 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr23.jpg",
+		"name": "Rexon",
+		"category": "new,Premium"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr22.jpg",
 		"name": "Light Shapify",
-		"category": "new,Premium"
+		"category": "new"
 	},
 	{
 		"author": "Ankit Anand",
