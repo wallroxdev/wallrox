@@ -1,6 +1,18 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr198.jpg",
+		"name": "Mellow",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr21.jpg",
+		"name": "Dreamland",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr20.jpg",
 		"name": "Winterland",
 		"category": "new"
