@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/amoled/papr42.jpg",
+		"name": "Darkr",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr35.jpg",
 		"name": "Multi-Mountain",
 		"category": "new"
