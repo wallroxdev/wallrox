@@ -1,9 +1,33 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr33.jpg",
+		"name": "Prismlate",
+		"category": "new, Premium"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr32.jpg",
+		"name": "Whimsy",
+		"category": "new, Premium"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/christmas/papr29.jpg",
+		"name": "Cute Santa",
+		"category": "new, Premium"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr39.jpg",
 		"name": "Ethereal Peaks",
 		"category": "new, Premium"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/blur/papr90.jpg",
+		"name": "Blur 90",
+		"category": "Blur"
 	},
 	{
 		"author": "Ankit Anand",
