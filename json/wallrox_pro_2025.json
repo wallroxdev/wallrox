@@ -1,9 +1,15 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr2.jpg",
+		"name": "Neon Odyssey",
+		"category": "new, Premium, Alpha Centauri"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr1.jpg",
 		"name": "Exploration",
-		"category": "new, Premium"
+		"category": "new, Premium, Alpha Centauri"
 	},
 	{
 		"author": "Ankit Anand",
