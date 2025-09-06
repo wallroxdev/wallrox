@@ -1,6 +1,30 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr49.jpg",
+		"name": "Celestial Horizon",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr124.jpg",
+		"name": "Aurora Flow",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr50.jpg",
+		"name": "Radiant Horizon",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr51.jpg",
+		"name": "Whispers of the Mountains",
+		"category": "new, Premium"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr2.jpg",
 		"name": "Neon Odyssey",
 		"category": "new, Premium, Alpha Centauri"
@@ -10,12 +34,6 @@
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr1.jpg",
 		"name": "Exploration",
 		"category": "new, Premium, Alpha Centauri"
-	},
-	{
-		"author": "Ankit Anand",
-		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr47.jpg",
-		"name": "Winding Mountain",
-		"category": "new, Premium"
 	},
 	{
 		"author": "Ankit Anand",
