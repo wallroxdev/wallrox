@@ -1,6 +1,18 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr56.jpg",
+		"name": "Glowfall Ravine",
+		"category": "new, Premium"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr57.jpg",
+		"name": "Dawnfall Peak",
+		"category": "new, Premium"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr3.jpg",
 		"name": "Redshift Drift",
 		"category": "new, Premium, Alpha Centauri"
