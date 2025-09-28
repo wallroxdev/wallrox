@@ -1,6 +1,36 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr59.jpg",
+		"name": "Whispers Through the Valley",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr58.jpg",
+		"name": "Skyline Protocol",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr6.jpg",
+		"name": "Lavasong Valley",
+		"category": "new, Premium, Alpha Centauri"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr5.jpg",
+		"name": "Celestial Confluence",
+		"category": "new, Premium, Alpha Centauri"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr4.jpg",
+		"name": "Sentinel of the Rings",
+		"category": "new, Premium, Alpha Centauri"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/liquify/papr36.jpg",
 		"name": "Fluidy X",
 		"category": "new,Liquify"
