@@ -1,6 +1,18 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr205.jpg",
+		"name": "Flow",
+		"category": "new, Premium"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/liquify/papr37.jpg",
+		"name": "Fluidy X1",
+		"category": "new, Premium"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr59.jpg",
 		"name": "Whispers Through the Valley",
 		"category": "new"
