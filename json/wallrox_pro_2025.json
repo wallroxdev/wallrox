@@ -1,6 +1,18 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr62.jpg",
+		"name": "Winter Roadtrip",
+		"category": "new, Premium"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/christmas/papr31.jpg",
+		"name": "Christmas Eve",
+		"category": "new, Premium"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr7.jpg",
 		"name": "Cosmic Outpost",
 		"category": "new, Premium, Alpha Centauri"
