@@ -1,6 +1,36 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr216.jpg",
+		"name": "Cosmic Silk Flow",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr12.jpg",
+		"name": "Lunar Beam Strike",
+		"category": "new, Premium, Alpha Centauri"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/pattern/papr66.jpg",
+		"name": "Melon Splash",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr86.jpg",
+		"name": "Retro Sun Valley",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr85.jpg",
+		"name": "Neon Drive",
+		"category": "new, Premium"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr215.jpg",
 		"name": "Crimson Flow Abstract",
 		"category": "new"
