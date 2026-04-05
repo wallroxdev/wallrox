@@ -1,6 +1,36 @@
 [
 	{
 		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr90.jpg",
+		"name": "Cyber Street Glow",
+		"category": "new, Premium"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr89.jpg",
+		"name": "Crimson Peak",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr88.jpg",
+		"name": "Starlit Serenity",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr87.jpg",
+		"name": "Neon Horizon",
+		"category": "new, Premium"
+	},
+	{
+		"author": "Ankit Anand",
+		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr217.jpg",
+		"name": "Spectrum Flow",
+		"category": "new"
+	},
+	{
+		"author": "Ankit Anand",
 		"url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr216.jpg",
 		"name": "Cosmic Silk Flow",
 		"category": "new"
