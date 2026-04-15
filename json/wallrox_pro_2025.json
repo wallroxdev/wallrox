@@ -1,6 +1,30 @@
 [
     {
         "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr95.jpg",
+        "name": "Neon Tropic Dusk",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr94.jpg",
+        "name": "Crimson Dune Silence",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr93.jpg",
+        "name": "Solitary Sail Horizon",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/liquify/papr38.jpg",
+        "name": "Fluid Gradient",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
         "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr36.jpg",
         "name": "ColorStream",
         "category": "NEW, Premium"
