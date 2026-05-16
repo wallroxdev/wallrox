@@ -1,6 +1,30 @@
 [
     {
         "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr99.jpg",
+        "name": "Synthwave Twin Towers",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr98.jpg",
+        "name": "Neon Eclipse Skyline",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr97.jpg",
+        "name": "Twilight Spire City",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr96.jpg",
+        "name": "Crimson Empire Tower",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
         "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr127.jpg",
         "name": "Solstice",
         "category": "NEW"
