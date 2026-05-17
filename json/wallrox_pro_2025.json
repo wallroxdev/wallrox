@@ -1,5 +1,29 @@
 [
-    {
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/florascape/papr3.jpg",
+        "name": "Rustic Serenity",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/florascape/papr2.jpg",
+        "name": "Spring Radiance",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/florascape/papr1.jpg",
+        "name": "Tropical Charm",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr37.jpg",
+        "name": "Crimson Geometry",
+        "category": "NEW"
+    },
+	{
         "author": "Ankit Anand",
         "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr104.jpg",
         "name": "Valley Glow",
