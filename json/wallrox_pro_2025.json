@@ -1,6 +1,30 @@
 [
     {
         "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr100.jpg",
+        "name": "River Calm",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr101.jpg",
+        "name": "Twilight Peaks",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr102.jpg",
+        "name": "Silent Reflections",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr103.jpg",
+        "name": "Solitary Grace",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
         "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr99.jpg",
         "name": "Synthwave Twin Towers",
         "category": "NEW, Premium"
