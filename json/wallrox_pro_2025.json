@@ -1,6 +1,12 @@
 [
     {
         "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr104.jpg",
+        "name": "Valley Glow",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
         "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr100.jpg",
         "name": "River Calm",
         "category": "NEW"
