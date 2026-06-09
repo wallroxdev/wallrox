@@ -1,6 +1,36 @@
 [
 	{
         "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/florascape/papr4.jpg",
+        "name": "Rustic Serenity",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr110.jpg",
+        "name": "Candycap Kingdom",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr111.jpg",
+        "name": "Moonlit Mirage",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr219.jpg",
+        "name": "Stardust Veil",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr220.jpg",
+        "name": "Velvet Flux",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
         "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr109.jpg",
         "name": "Infinity River",
         "category": "NEW, Premium"
