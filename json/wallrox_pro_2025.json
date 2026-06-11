@@ -1,6 +1,36 @@
 [
 	{
         "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr129.jpg",
+        "name": "Illuminate",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr112.jpg",
+        "name": "Velocity",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr128.jpg",
+        "name": "Apex",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr221.jpg",
+        "name": "Lumina",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lowpoly/papr75.jpg",
+        "name": "Quantum",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
         "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/florascape/papr4.jpg",
         "name": "Rustic Serenity",
         "category": "NEW, Premium"
