@@ -1,6 +1,30 @@
 [
 	{
         "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr225.jpg",
+        "name": "Cosmic Ring",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr224.jpg",
+        "name": "Eclipse Trail",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr223.jpg",
+        "name": "Liquid Loop",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr222.jpg",
+        "name": "Radiant Curve",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
         "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr14.jpg",
         "name": "The Watchers",
         "category": "NEW, Premium, Alpha Centauri"
