@@ -1,6 +1,30 @@
 [
 	{
         "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr113.jpg",
+        "name": "Solara Falls",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr228.jpg",
+        "name": "Midnight Fusion",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr227.jpg",
+        "name": "Arctic Flow",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr226.jpg",
+        "name": "Sapphire Wave",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
         "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr225.jpg",
         "name": "Cosmic Ring",
         "category": "NEW"
