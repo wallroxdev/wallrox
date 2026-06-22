@@ -1,6 +1,24 @@
 [
 	 {
         "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr116.jpg",
+        "name": "Palm Haven",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr115.jpg",
+        "name": "Afterglow",
+        "category": "NEW, Premium"
+    },
+	{
+        "author": "Ankit Anand",
+        "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr114.jpg",
+        "name": "Sail Away",
+        "category": "NEW"
+    },
+	{
+        "author": "Ankit Anand",
         "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/pattern/papr67.jpg",
         "name": "KickPop",
         "category": "NEW"
