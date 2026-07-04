@@ -1,9 +1,30 @@
 [
   {
     "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr127.jpg",
+    "name": "Waterfall",
+	"featuredTitle": "Wall of the Day",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr126.jpg",
+    "name": "Sailboat",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr125.jpg",
+    "name": "Floating Islands",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr15.jpg",
     "name": "Outpost",
-    "category": "NEW, Premium, Alpha Centauri"
+    "category": "NEW, Premium, Alpha Centauri",
+	"featuredTitle": "Featured",
+    "featuredOrder": 2
   },
   {
     "author": "Ankit Anand",
@@ -25,14 +46,15 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr122.jpg",
     "name": "Portal",
-    "featuredTitle": "Wall of the Day",
     "category": "NEW, Premium"
   },
   {
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr121.jpg",
     "name": "Velora",
-    "category": "NEW, Premium"
+    "category": "NEW, Premium",
+    "featuredTitle": "Featured",
+    "featuredOrder": 3
   },
   {
     "author": "Ankit Anand",
@@ -46,7 +68,9 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr119.jpg",
     "name": "Solara",
-    "category": "NEW, Premium"
+    "category": "NEW, Premium",
+    "featuredTitle": "Featured",
+    "featuredOrder": 4
   },
   {
     "author": "Ankit Anand",
@@ -166,9 +190,7 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr128.jpg",
     "name": "Apex",
-    "category": "NEW",
-    "featuredTitle": "Featured",
-    "featuredOrder": 2
+    "category": "NEW"
   },
   {
     "author": "Ankit Anand",
@@ -234,9 +256,7 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr106.jpg",
     "name": "Twilight Trails",
-    "category": "NEW",
-    "featuredTitle": "Featured",
-    "featuredOrder": 3
+    "category": "NEW"
   },
   {
     "author": "Ankit Anand",
@@ -290,9 +310,7 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr102.jpg",
     "name": "Silent Reflections",
-    "category": "NEW",
-    "featuredTitle": "Featured",
-    "featuredOrder": 4
+    "category": "NEW"
   },
   {
     "author": "Ankit Anand",
