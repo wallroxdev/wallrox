@@ -1,6 +1,48 @@
 [
   {
     "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr129.jpg",
+    "name": "Canopy"
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr128.jpg",
+    "name": "Flora"
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/florascape/papr5.jpg",
+    "name": "Bloom",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr18.jpg",
+    "name": "Fracture",
+    "category": "NEW, Premium, Alpha Centauri"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr16.jpg",
+    "name": "Voyager",
+    "category": "NEW, Premium, Alpha Centauri"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr19.jpg",
+    "name": "Ascent",
+    "category": "NEW, Premium, Alpha Centauri"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr17.jpg",
+    "name": "Genesis",
+    "category": "NEW, Premium, Alpha Centauri"
+  },
+  {
+    "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr229.jpg",
     "name": "Lavender Tide",
     "category": "NEW"
