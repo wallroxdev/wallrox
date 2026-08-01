@@ -1,5 +1,36 @@
 [
-   {
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr238.jpg",
+    "name": "Neon Dunes",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr237.jpg",
+    "name": "Nebula Glass",
+	"featuredTitle": "Wall of the Day",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr135.jpg",
+    "name": "Retro Ridge",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr134.jpg",
+    "name": "Astral Mist",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr133.jpg",
+    "name": "Golden Horizon",
+    "category": "NEW"
+  },
+  {
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr236.jpg",
     "name": "Prismatic Surge",
@@ -27,7 +58,6 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr132.jpg",
     "name": "Synthwave Gateway",
-	"featuredTitle": "Wall of the Day",
     "category": "NEW, Premium"
   },
   {
@@ -88,25 +118,33 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr18.jpg",
     "name": "Fracture",
-    "category": "NEW, Premium, Alpha Centauri"
+    "category": "NEW, Premium, Alpha Centauri",
+    "featuredTitle": "Featured",
+    "featuredOrder": 1
   },
   {
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr16.jpg",
     "name": "Voyager",
-    "category": "NEW, Premium, Alpha Centauri"
+    "category": "NEW, Premium, Alpha Centauri",
+    "featuredTitle": "Featured",
+    "featuredOrder": 2
   },
   {
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr19.jpg",
     "name": "Ascent",
-    "category": "NEW, Premium, Alpha Centauri"
+    "category": "NEW, Premium, Alpha Centauri",
+    "featuredTitle": "Featured",
+    "featuredOrder": 3
   },
   {
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr17.jpg",
     "name": "Genesis",
-    "category": "NEW, Premium, Alpha Centauri"
+    "category": "NEW, Premium, Alpha Centauri",
+    "featuredTitle": "Featured",
+    "featuredOrder": 4
   },
   {
     "author": "Ankit Anand",
@@ -136,25 +174,19 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr15.jpg",
     "name": "Outpost",
-    "category": "NEW, Premium, Alpha Centauri",
-	"featuredTitle": "Featured",
-    "featuredOrder": 2
+    "category": "NEW, Premium, Alpha Centauri"
   },
   {
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr124.jpg",
     "name": "Laguna",
-    "category": "NEW, Premium",
-    "featuredTitle": "Featured",
-    "featuredOrder": 1
+    "category": "NEW, Premium"
   },
   {
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr123.jpg",
     "name": "Verdance",
-    "category": "NEW, Premium",
-    "featuredTitle": "Featured",
-    "featuredOrder": 5
+    "category": "NEW, Premium"
   },
   {
     "author": "Ankit Anand",
@@ -166,25 +198,19 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr121.jpg",
     "name": "Velora",
-    "category": "NEW, Premium",
-    "featuredTitle": "Featured",
-    "featuredOrder": 3
+    "category": "NEW, Premium"
   },
   {
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr120.jpg",
     "name": "Sunbay",
-    "category": "NEW, Premium",
-    "featuredTitle": "Featured",
-    "featuredOrder": 6
+    "category": "NEW, Premium"
   },
   {
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr119.jpg",
     "name": "Solara",
-    "category": "NEW, Premium",
-    "featuredTitle": "Featured",
-    "featuredOrder": 4
+    "category": "NEW, Premium"
   },
   {
     "author": "Ankit Anand",
