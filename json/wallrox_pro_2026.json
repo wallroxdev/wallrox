@@ -1,6 +1,30 @@
 [
   {
     "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr38.jpg",
+    "name": "Prismatic Glass",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr248.jpg",
+    "name": "Organic Waves",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr247.jpg",
+    "name": "Velvet Waves",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr246.jpg",
+    "name": "Neon Vertex",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr140.jpg",
     "name": "Sunset Summits",
 	"featuredTitle": "Wall of the Day",
