@@ -1,9 +1,27 @@
 [
   {
     "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr140.jpg",
+    "name": "Sunset Summits",
+	"featuredTitle": "Wall of the Day",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr138.jpg",
+    "name": "Synth-City",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr139.jpg",
+    "name": "Neon Horizon",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr131.jpg",
     "name": "Neon Slash",
-	"featuredTitle": "Wall of the Day",
     "category": "NEW"
   },
   {
