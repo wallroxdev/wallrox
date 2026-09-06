@@ -1,6 +1,31 @@
 [
   {
     "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr148.jpg",
+    "name": "Outrun Forest",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr147.jpg",
+    "name": "Starlit Avenue",
+	"featuredTitle": "Wall of the Day",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr146.jpg",
+    "name": "Pine Glow",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr145.jpg",
+    "name": "The Pink Line",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr249.jpg",
     "name": "Molten",
     "category": "NEW"
@@ -15,7 +40,6 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr142.jpg",
     "name": "Skyline",
-	"featuredTitle": "Wall of the Day",
     "category": "NEW, Premium"
   },
   {
