@@ -1,6 +1,36 @@
 [
   {
     "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr24.jpg",
+    "name": "Twin Explorers",
+    "category": "NEW, Premium, Alpha Centauri"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr23.jpg",
+    "name": "Centauri Skyline",
+    "category": "NEW, Alpha Centauri"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr22.jpg",
+    "name": "Zero Gravity",
+    "category": "NEW, Alpha Centauri"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr21.jpg",
+    "name": "Orb Bearer",
+    "category": "NEW, Alpha Centauri, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr20.jpg",
+    "name": "Moon Chiller",
+    "category": "NEW, Premium, Alpha Centauri"
+  },
+  {
+    "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr39.jpg",
     "name": "Glass Gradients",
     "category": "NEW"
