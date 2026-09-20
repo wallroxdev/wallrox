@@ -127,8 +127,10 @@
   {
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr141.jpg",
-    "name": "Whimsy",
-    "category": "NEW, Premium"
+    "name": "Whimzy",
+    "category": "NEW, Premium",
+    "featuredTitle": "Featured",
+    "featuredOrder": 2
   },
   {
     "author": "Ankit Anand",
@@ -1336,9 +1338,7 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr32.jpg",
     "name": "Whimsy",
-    "category": "Geometric, Premium",
-    "featuredTitle": "Featured",
-    "featuredOrder": 2
+    "category": "Geometric, Premium"
   },
   {
     "author": "Ankit Anand",
