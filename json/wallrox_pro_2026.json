@@ -15,13 +15,16 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr153.jpg",
     "name": "Glowing Star",
+    "featuredTitle": "Wall of the Day",
     "category": "NEW"
   },
   {
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr258.jpg",
     "name": "Sweeping Folds",
-    "category": "NEW, Premium"
+    "category": "NEW, Premium",
+    "featuredTitle": "Featured",
+    "featuredOrder": 4
   },
   {
     "author": "Ankit Anand",
@@ -33,7 +36,6 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/lines/papr132.jpg",
     "name": "Cyber Cross",
-	"featuredTitle": "Wall of the Day",
     "category": "NEW"
   },
   {
@@ -46,7 +48,9 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/abstract/papr255.jpg",
     "name": "Boomer",
-    "category": "NEW"
+    "category": "NEW",
+    "featuredTitle": "Featured",
+    "featuredOrder": 3
   },
   {
     "author": "Ankit Anand",
@@ -76,7 +80,9 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr151.jpg",
     "name": "Ethereal Mountain",
-    "category": "NEW, Premium"
+    "category": "NEW, Premium",
+    "featuredTitle": "Featured",
+    "featuredOrder": 1
   },
   {
     "author": "Ankit Anand",
@@ -88,7 +94,9 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr150.jpg",
     "name": "Pastel Peaks",
-    "category": "NEW"
+    "category": "NEW",
+    "featuredTitle": "Featured",
+    "featuredOrder": 2
   },
   {
     "author": "Ankit Anand",
@@ -124,17 +132,13 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr24.jpg",
     "name": "Twin Explorers",
-    "category": "NEW, Premium, Alpha Centauri",
-    "featuredTitle": "Featured",
-    "featuredOrder": 3
+    "category": "NEW, Premium, Alpha Centauri"
   },
   {
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/alpha_centauri/papr23.jpg",
     "name": "Centauri Skyline",
-    "category": "NEW, Alpha Centauri",
-    "featuredTitle": "Featured",
-    "featuredOrder": 4
+    "category": "NEW, Alpha Centauri"
   },
   {
     "author": "Ankit Anand",
@@ -194,17 +198,13 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr141.jpg",
     "name": "Whimzy",
-    "category": "NEW, Premium",
-    "featuredTitle": "Featured",
-    "featuredOrder": 2
+    "category": "NEW, Premium"
   },
   {
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr142.jpg",
     "name": "Skyline",
-    "category": "NEW, Premium",
-    "featuredTitle": "Featured",
-    "featuredOrder": 1
+    "category": "NEW, Premium"
   },
   {
     "author": "Ankit Anand",
