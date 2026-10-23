@@ -1,6 +1,36 @@
 [
   {
     "author": "Ankit Anand",
+    "rl": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr159.jpg",
+    "name": "Frozen Lake",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr158.jpg",
+    "name": "Winter Forest",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr157.jpg",
+    "name": "Twilight Pine Trail",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr156.jpg",
+    "name": "Snowy Sunset Highway",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr155.jpg",
+    "name": "Glacial Peaks",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/geo/papr41.jpg",
     "name": "Jewel Fragments",
     "category": "NEW"
