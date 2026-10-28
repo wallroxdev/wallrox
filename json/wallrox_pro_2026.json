@@ -1,9 +1,57 @@
 [
   {
     "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr167.jpg",
+    "name": "Vesper Dusk",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr166.jpg",
+    "name": "Vesper Night",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr165.jpg",
+    "name": "Solace Dawn",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr164.jpg",
+    "name": "Solace Horizon",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr163.jpg",
+    "name": "Sakura",
+	"featuredTitle": "Wall of the Day",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr162.jpg",
+    "name": "Nocturne Glow",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr161.jpg",
+    "name": "Eclipse Rise",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr160.jpg",
+    "name": "Eclipse Prime",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr159.jpg",
     "name": "Frozen Lake",
-	"featuredTitle": "Wall of the Day",
     "category": "NEW"
   },
   {
