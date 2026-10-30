@@ -1,6 +1,43 @@
 [
   {
     "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr173.jpg",
+    "name": "Astral",
+	"featuredTitle": "Wall of the Day",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr172.jpg",
+    "name": "Suncrest",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr171.jpg",
+    "name": "Seaborn",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr170.jpg",
+    "name": "Snowdrift",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr169.jpg",
+    "name": "Bluehour",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr168.jpg",
+    "name": "Opaline",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr167.jpg",
     "name": "Vesper Dusk",
     "category": "NEW"
@@ -27,7 +64,6 @@
     "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr163.jpg",
     "name": "Sakura",
-	"featuredTitle": "Wall of the Day",
     "category": "NEW, Premium"
   },
   {
