@@ -1,9 +1,27 @@
 [
   {
     "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr176.jpg",
+    "name": "Bitline",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr175.jpg",
+    "name": "Coral Palms",
+	"featuredTitle": "Wall of the Day",
+    "category": "NEW, Premium"
+  },
+  {
+    "author": "Ankit Anand",
+    "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr174.jpg",
+    "name": "Crimson Tide",
+    "category": "NEW"
+  },
+  {
+    "author": "Ankit Anand",
     "url": "https://raw.githubusercontent.com/wallroxdev/wallrox/main/wall/landscape/papr173.jpg",
     "name": "Astral",
-	"featuredTitle": "Wall of the Day",
     "category": "NEW, Premium"
   },
   {
